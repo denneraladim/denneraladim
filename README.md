@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Denner Aladim, a student of system development.
+### Hi there 👋, I'm Denner Aladim, a developer of Front End 
 
 A little about me:
 
