@@ -1,12 +1,9 @@
-### Hi there 👋, I'm Denner Aladim, a developer of Front End 
+### Olá 👋, eu sou Denner Aladim, um Analista de Dados Junior
 
-A little about me:
+Um pouco sobre mim:
 
-- 🏠 I'm from Conselheiro Lafaiete, Minas Gerais, Brazil, a small city in the country side
-- 🌱 I’m currently learning HTML/CSS, JS and ReactJS
-- 📫 How to reach me: dennerdangelo57@gmail.com 
+- 🏠  Sou de Conselheiro Lafaiete, Minas Gerais, Brazil, uma pequena cidade no interior
+- 🌱 Já estudei Excel e atualmente estou aprendendo SQL, Power BI e iniciando Python
+- 📫 Como me encontrar: dennerdangelo57@gmail.com
+- 📂 Meu Portfolio: https://sites.google.com/d/1BjW4bHzYym-OdPinOBs-AF4hsbl7yNj0/p/1aOeZHY5NcWv7W9KDcVivaI3Ry5p8cbZj/edit
 
-### And That's my activity:
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=denneraladim&hide=contribs,prs)
